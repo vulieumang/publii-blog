@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog",
+    "description": "",
+    "home_page_url": "https://vulieumang.github.io/publii-blog",
+    "feed_url": "https://vulieumang.github.io/publii-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "vu"
+    },
+    "items": [
+        {
+            "id": "https://vulieumang.github.io/publii-blog/bai-viet-dau-tien.html",
+            "url": "https://vulieumang.github.io/publii-blog/bai-viet-dau-tien.html",
+            "title": "Bài viết đầu tiên",
+            "summary": "Bài viết đầu tiên",
+            "content_html": "<p>Bài viết đầu tiên</p>",
+            "author": {
+                "name": "vu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-02T04:50:06+07:00",
+            "date_modified": "2022-01-02T04:50:06+07:00"
+        }
+    ]
+}

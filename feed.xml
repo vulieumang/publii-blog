@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Blog</title>
+    <link href="https://vulieumang.github.io/publii-blog/feed.xml" rel="self" />
+    <link href="https://vulieumang.github.io/publii-blog" />
+    <updated>2022-01-02T04:50:06+07:00</updated>
+    <author>
+        <name>vu</name>
+    </author>
+    <id>https://vulieumang.github.io/publii-blog</id>
+
+    <entry>
+        <title>Bài viết đầu tiên</title>
+        <author>
+            <name>vu</name>
+        </author>
+        <link href="https://vulieumang.github.io/publii-blog/bai-viet-dau-tien.html"/>
+        <id>https://vulieumang.github.io/publii-blog/bai-viet-dau-tien.html</id>
+
+        <updated>2022-01-02T04:50:06+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Bài viết đầu tiên
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bài viết đầu tiên</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
