@@ -14,8 +14,8 @@
             "id": "https://vulieumang.github.io/publii-blog/bai-viet-dau-tien/",
             "url": "https://vulieumang.github.io/publii-blog/bai-viet-dau-tien/",
             "title": "Bài viết đầu tiên",
-            "summary": "Bài viết đầu tiên",
-            "content_html": "<p>Bài viết đầu tiên</p>",
+            "summary": "Bài viết đầu tiên ",
+            "content_html": "<p>Bài viết đầu tiên</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vulieumang.github.io/publii-blog/media/posts/1/Screen-Shot-2021-10-10-at-20.56.53-2.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://vulieumang.github.io/publii-blog/media/posts/1/responsive/Screen-Shot-2021-10-10-at-20.56.53-2-xs.png 300w ,https://vulieumang.github.io/publii-blog/media/posts/1/responsive/Screen-Shot-2021-10-10-at-20.56.53-2-sm.png 480w ,https://vulieumang.github.io/publii-blog/media/posts/1/responsive/Screen-Shot-2021-10-10-at-20.56.53-2-md.png 768w\"  alt=\"\" width=\"2880\" height=\"1800\"></figure>",
             "image": "https://vulieumang.github.io/publii-blog/media/posts/1/Screen-Shot-2021-10-10-at-20.56.53.png",
             "author": {
                 "name": "vu"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2022-01-02T04:50:06+07:00",
-            "date_modified": "2022-01-02T05:21:38+07:00"
+            "date_modified": "2022-01-02T05:23:58+07:00"
         }
     ]
 }
